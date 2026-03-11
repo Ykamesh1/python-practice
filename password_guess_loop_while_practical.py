@@ -5,7 +5,7 @@
 
 tries = 4 
 
-mainpassword = "kamesh123"
+mainpassword = "abcde"
 
 inputpassword = input("type your password: ")
 
