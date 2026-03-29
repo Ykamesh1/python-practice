@@ -4,9 +4,6 @@
 # --       advanced example        --
 # -------------------------------------
 
-from isort import file
-
-
 the_file = None
 the_tries = 5 
 
