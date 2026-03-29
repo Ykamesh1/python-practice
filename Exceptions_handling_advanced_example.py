@@ -17,10 +17,10 @@ while the_tries > 0:
         
         print("example : D:\\python\\files\\yourfile.extension")
         
-        fime_name_and_path = input("file name => : ").strip()
+        file_name_and_path = input("file name => : ").strip()
         
-        the_file =open(fime_name_and_path, "r")
-        
+        the_file =open(file_name_and_path, "r")
+    
         print(the_file.read())
         
         break
