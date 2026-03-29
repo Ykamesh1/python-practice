@@ -34,6 +34,9 @@ while the_tries > 0:
     except :
         
         print("error happened")    
+
+        the_tries -= 1
+
     
     finally:
         
